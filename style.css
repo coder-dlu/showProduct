@@ -181,8 +181,3 @@ body {
 .card .details .group a:hover {
     color: rgb(61, 150, 72);
 }
-.audio{
-    position: absolute;
-    margin-top: -300px;
-    z-index: 10;
-}
